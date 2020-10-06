@@ -4,7 +4,7 @@ sudo apt install code tilix gnome-tweaks google-chrome-stable atom ubuntu-restri
 sudo apt install htop cmatrix mlocate
 #sudo apt install gparted emacs vlc virtualbox gimp synaptic snapd wine         
 #sudo apt install spyder3                                                       
-#sudo apt install cewl crunch nmap hydra hashcat john beef     
+#sudo apt install cewl crunch nmap hydra hashcat john beef wireshark
 #curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
 # chmod 755 msfinstall && \
 # ./msfinstall
