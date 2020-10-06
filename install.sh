@@ -12,4 +12,4 @@ mkdir programs
 cd programs
 mkdir kernel gnuCommands python java c projects
 cd 
-sudo flatpak install BlueJ Spotify PyCharm-Community WhatsAppQT
+#sudo flatpak install BlueJ Spotify PyCharm-Community WhatsAppQT
